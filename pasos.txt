@@ -12,6 +12,10 @@ instalacion del nodejs
 
 3. Instalar express
 
+4. Instalar ipware (para checkear q ips me visitan)
+
+npm install ipware
+
 Pasos para generar el proyecto (1era vez) 
 ===== ==== ======= == ========
 
