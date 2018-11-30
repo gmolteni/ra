@@ -1,0 +1,20 @@
+Pasos para ejecutarlo
+sudo node ra.js
+
+///////////////////////////////////////
+
+instalacion del nodejs
+=========== === ======
+1. Ir a nodejs.org e instalarlo.
+(en mi caso, esta corriendo bajo ubuntu).
+
+2. Instalar npm
+
+3. Instalar express
+
+Pasos para generar el proyecto (1era vez) 
+===== ==== ======= == ========
+
+npm init
+npm install express --save
+
